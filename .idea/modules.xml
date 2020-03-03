@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Webview Communication.iml" filepath="$PROJECT_DIR$/Webview Communication.iml" group="Webview Communication" />
+      <module fileurl="file://$PROJECT_DIR$/Webview-Communication.iml" filepath="$PROJECT_DIR$/Webview-Communication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Webview Communication/app" />
+    </modules>
+  </component>
+</project>

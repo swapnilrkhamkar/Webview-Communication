@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<style>
+
+#text-container{
+    font-size:24px;
+}
+
+
+
+</style>
+<body>
+
+<p id="text-container">
+</p>
+
+<h1>This is a html text</h1>
+
+<script>
+
+	function giveCallbackToClient(){
+	handler.setWebViewTextCallback();
+	}
+
+    function setText(text){
+	document.getElementById('text-container').innerHTML=text;
+	}
+
+
+</script>
+
+</body>
+</html>
